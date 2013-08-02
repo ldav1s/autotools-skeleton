@@ -1,0 +1,13 @@
+2013-08-01 ldav1s <ldav1s@yahoo.com>
+
+	* .gitignore: added
+	* COPYING: added
+	* ChangeLog: added
+	* LICENSE: added symbolic link
+	* Makefile.am: added
+	* README.md: added
+	* README: added
+	* bootstrap.sh: added
+	* configure.ac: added
+	* src/main.c: added
+	
